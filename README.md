@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi I'm Baptiste Kieffer
+
+Je suis actuellement étudiant en 2ème année de BUT Informatique.
+J'ai déja réalisé plusieurs projets, comme un serious game pour gérer le personnel d'un IUT, une application de gestion partagée de dépenses avec WinForm, un jeu de cartes pokémon développé en Java, un jeu snake développé en assembleur, Jeu du labyrinthe codé en Java.
+
 
 <!--
 **baptiste100/baptiste100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
